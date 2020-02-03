@@ -26,3 +26,4 @@ def func3():
     var3=200
 func3()
 print(var3)
+
